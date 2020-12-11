@@ -9,8 +9,8 @@ Ngoài ra, bạn cần cài đặt Expo Client trên Google Play (Android) và A
 Flag-lôn and run it thôi
 1. Bước 1: Dự án nhân bản
 
-git clone https://github.com/GreenBeret3155/FE-react-native-VNcare.git
-or access https://github.com/GreenBeret3155/FE-react-native-VNcare.git để tải tập tin ZIP
+git clone https://github.com/quang-gtvt-99/vncare.git
+
 
 2. Bước 2: Nốt-mô-đun và đồng bọn
 
